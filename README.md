@@ -18,7 +18,7 @@ I mostly wrote this to remind myself of this syntax as I find myself using the p
 
 ## Installation
 
-`yarn install async-call-on-array-items`
+`yarn add async-call-on-array-items`
 
 or
 
