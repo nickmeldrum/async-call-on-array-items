@@ -1,19 +1,20 @@
 {
   "name": "async-call-on-array-items",
   "version": "0.0.1",
-  "description": "",
+  "description": "wait for all async invocations of functions on all array items",
   "keywords": [
-    "filesystem"
+    "async",
+    "arrays"
   ],
-  "homepage": "https://github.com/nickmeldrum/async-call-on-array-items#readme",
+  "homepage": "https://github.com/nickmeldrum/async-call-on-array-items-node#readme",
   "author": "Nick Meldrum <nick@nickmeldrum.com> (http://nickmeldrum.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nickmeldrum/async-call-on-array-items/issues"
+    "url": "https://github.com/nickmeldrum/async-call-on-array-items-node/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickmeldrum/async-call-on-array-items.git"
+    "url": "git+https://github.com/nickmeldrum/async-call-on-array-items-node.git"
   },
   "engines": {
     "node": ">=7.10.1"
