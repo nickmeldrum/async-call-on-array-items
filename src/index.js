@@ -7,7 +7,7 @@ MoreArgumentsNeededError.prototype = new Error()
 
 const validateArgs = (func, items) => {
   if (func === undefined || items === undefined) throw new MoreArgumentsNeededError(2)
-  if (func === undefined || func === null || func.constructor !== Function)
+  if (func === undefined || func === null || typeof func !== 'function')
     throw new TypeError('The first argument must be a function')
   if (items === undefined || items === null || items.constructor !== Array)
     throw new TypeError('The second argument must be an array')
