@@ -36,8 +36,7 @@ const asyncFunc = async item => {
   await pause(1)
   return item.replace('o', 'a')
 }
-const result = await asyncCallOnArrayItems(asyncFunc, ['hello', 'world'])
-console.log(result)
+asyncCallOnArrayItems(asyncFunc, ['hello', 'world']).then(result => console.log(result))
 ```
 
 Notice that it doesn't support callbacks and is promisified by default.
