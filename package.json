@@ -1,6 +1,6 @@
 {
   "name": "async-call-on-array-items",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "wait for all async invocations of functions on all array items",
   "keywords": [
     "async",
