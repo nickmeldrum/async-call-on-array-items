@@ -1,5 +1,7 @@
 # async-call-on-array-items-node
 
+[![Build Status](https://travis-ci.org/nickmeldrum/async-call-on-array-items-node.svg?branch=master)](https://travis-ci.org/nickmeldrum/async-call-on-array-items-node)
+
 "Wait for all async invocations of functions on all array items."
 
 A ridiculously simple package. Probably best not to actually use this, but to learn from it.
