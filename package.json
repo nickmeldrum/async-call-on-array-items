@@ -92,5 +92,6 @@
     "prettier": "^1.16.4"
   },
   "dependencies": {
+    "coveralls": "^3.0.3"
   }
 }
