@@ -1,6 +1,8 @@
 # async-call-on-array-items-node
 
 [![Build Status](https://travis-ci.org/nickmeldrum/async-call-on-array-items-node.svg?branch=master)](https://travis-ci.org/nickmeldrum/async-call-on-array-items-node)
+[![NPM Downloads](https://img.shields.io/npm/dw/async-call-on-array-items.svg)](https://www.npmjs.com/package/async-call-on-array-items)
+
 
 "Wait for all async invocations of functions on all array items."
 
